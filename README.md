@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=780&lines=Android+%C2%B7+Kotlin+%C2%B7+Jetpack+Compose+%C2%B7+Flutter;Working+student+%40+BMW+Group+%C2%B7+Android+infotainment;Master's+in+Artificial+Intelligence+%40+FAU+Erlangen-N%C3%BCrnberg;Never+Give+Up!+%F0%9F%91%8A)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-asif-007/)
-[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://huzaifa18blog.wordpress.com/)
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://huzaifa18.github.io/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6874315/huzaifa-asif)
 ![Location](https://img.shields.io/badge/Based%20in-Nuremberg%2C%20Germany-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)
 
